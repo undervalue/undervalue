@@ -4,9 +4,9 @@
 
 - 🤝 25 years old from Manchester, United Kingdom.
 - 🎓 Law and Business Graduate.
+- ⚡ Crypto and NFT enthusiast.
 - 💼 Founder of multiple businesses.
 - 🌱 I’m currently learning: Solidity. 
-- ⚡ Crypto and NFT enthusiast.
 
 ### Connect with me:
 
