@@ -6,7 +6,7 @@
 - 🎓 Law and Business Graduate.
 - 💼 Founder of multiple businesses.
 - 🌱 I’m currently learning: Solidity. 
-- ⚡ My Interests: Sneakers, Crypto, NFT and Football.
+- ⚡ Crypto and NFT enthusiast.
 
 ### Connect with me:
 
