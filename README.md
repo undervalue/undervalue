@@ -2,8 +2,9 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Ganzeth?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FGanzeth&screen_name=Ganzeth)
 
-## I'm 25 years old. Law and Business Graduate. Founder of multiple businesses. Now, I'm improving my coding skills!
-
+- 🤝 25 years old from Manchester, United Kingdom.
+- 🎓 Law and Business Graduate.
+- 💼 Founder of multiple businesses.
 - 🌱 I’m currently learning: Solidity. 
 - ⚡ My Interests: Sneakers, Crypto, NFT and Football.
 
